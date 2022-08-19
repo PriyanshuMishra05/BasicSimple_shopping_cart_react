@@ -1,0 +1,43 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.shopping-card {
+    justify-content: space-between;
+    background-color: grey;
+    padding: 20px 30px;
+    text-align: center;
+    padding-left: 36rem;
+}
+
+.product-item {
+    padding: 20px;
+}
+
+footer {
+    background-color: #262525;
+    padding-top: 5px;
+    font-size: 100%;
+}
+
+.p {
+    color: gray;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.author {
+    text-align: end;
+    font-size: 90%;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.author img {
+    height: 50px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-left: 10px;
+}
